@@ -1,2 +1,2 @@
 # Image-Processing
-I performed image processing to find similarity between two images using MATLAB
+The project deals with comparing of two images and finding out the similarity between them in an uncontrollable environment using MATLAB
